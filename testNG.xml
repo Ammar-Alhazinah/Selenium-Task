@@ -1,7 +1,7 @@
 <suite name="Task 16-10-2022">
     <test name = "Task 16-10-2022">
         <classes>
-            <class name="keys.KeysTests"/>
+            <class name="Tests.Tests"/>
         </classes>
     </test>
 </suite>

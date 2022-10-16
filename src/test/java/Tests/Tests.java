@@ -1,9 +1,8 @@
-package keys;
+package Tests;
 
 import DataProvider.DataProviderClass;
 import HelpClasses.WriteCsvFile;
 import base.BaseTests;
-import org.openqa.selenium.Keys;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.Test;
@@ -13,12 +12,12 @@ import java.util.List;
 
 import static org.testng.Assert.assertEquals;
 
-public class KeysTests extends BaseTests {
+public class Tests extends BaseTests {
 
     static List<String[]> csvLines = new ArrayList<String[]>();
 
     @Test(dataProviderClass = DataProviderClass.class , dataProvider = "Data")
-    public void testBackspace(String name){
+    public void testReadAndWriteCSVFile(String name){
         var keyPage = homePage.clickKeyPresses();
         keyPage.enterText(name);
         String[] lineDetails = {name, keyPage.getResult().substring(keyPage.getResult().length() - 1)};
