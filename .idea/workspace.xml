@@ -4,8 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9910ba1-5b76-4f8e-ada7-5b147c0df0cf" name="Changes" comment="test1">
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/Tests.java" afterDir="false" />
+    <list default="true" id="b9910ba1-5b76-4f8e-ada7-5b147c0df0cf" name="Changes" comment="test2">
+      <change afterPath="$PROJECT_DIR$/allure-results/0391f108-fae7-4023-acd1-9859acf4f96c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0762cfa2-f85a-4255-9412-eae32282964c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0807a8b0-7f26-45e3-93ba-ab3cd0ac56f1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1e2fa20e-1f81-41c6-9805-3bc43f457296-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/20bf9878-8824-48ed-8088-977de7dedbda-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2698f133-1bfa-4d4d-88e5-40bdd1f22db8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/42317ff1-7c4a-40c8-9f6b-b68dbe22233c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4274b33e-4049-43d5-9cbb-edc04bb9cc00-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/445a2f98-e5a3-4c83-a06b-a348af53f3b9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/49fb6829-13d6-491e-a14b-f71528fa329a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/598bd3f6-1334-448d-82c8-da4f8b64d362-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/622ec7a1-6cd7-4e14-a0a3-68921919403d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6e9abb4a-935c-4a1b-8289-cb4d64b77f64-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7b600056-6cad-4ef4-8262-b450cde79ba0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7c27fd61-19a2-4047-a665-e049ad247ea9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/80e90946-d26a-4553-bb37-6c4fdcf8cabf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8298c694-8503-4da0-ada2-400c0ae78c56-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/865a2ef0-0212-42e2-bd44-71b847165db8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/86a5d690-2179-487a-90f9-f1163ab50419-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8f8c7327-7261-4778-89f3-367a3730301e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/95498584-2a59-40cb-b007-18be156f369e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9dc8674b-7106-4eff-a5a4-80545d34c44c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9e0184f0-c245-4147-addd-57014136f2e5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a47f9a06-7af0-4b92-a267-a67ac88a95f1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a6790827-7672-4cd9-82fe-15b7972b1592-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b0381b87-d268-4445-a770-d8e8fe3ff436-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bddba47e-b7ae-4021-9695-886981075577-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bf8e2d18-f521-4623-a1b7-fff338f849d5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bfa642e2-b507-4d85-ae00-a99750e754eb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c6e4f9d0-2ee1-4c8e-8d12-36b9867e8569-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c85f434f-6b08-450d-b476-2fcf315cb7e5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eb0282c7-41b4-473b-a189-abb436fe807e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eba5d913-33d3-4fda-9735-501c2145f42a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ebc51045-0e1d-4ed4-95e9-d4284b0d9554-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f269f40d-f2fc-4a46-a6cf-d8116359731c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ffd38f41-bc75-4ad7-a6a9-0ae647b18038-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/base/BaseTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/BaseTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/Tests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665948972246</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test2">
+      <created>1665950350636</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665950350636</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,7 +244,8 @@
     <MESSAGE value="screenshots" />
     <MESSAGE value="test jenkins" />
     <MESSAGE value="test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test1" />
+    <MESSAGE value="test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

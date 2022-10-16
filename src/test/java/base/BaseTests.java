@@ -1,6 +1,8 @@
 package base;
 
 import com.google.common.io.Files;
+import io.qameta.allure.Allure;
+import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -46,7 +48,9 @@ public class BaseTests {
             var camera = (TakesScreenshot)driver;
             File screenshot = camera.getScreenshotAs(OutputType.FILE);
             try{
-                Files.move(screenshot, new File("resources/screenshots/" + result.getName() + ".png"));
+                File screenshotFile = new File("resources/screenshots/" + result.getName() + ".png");
+                Files.move(screenshot, screenshotFile);
+                Allure.addAttachment(""+result.getName() + ".png", FileUtils.openInputStream(screenshotFile));
             }catch(IOException e){
                 e.printStackTrace();
             }
